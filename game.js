@@ -121,3 +121,4 @@ randomWord();
 generateButtons();
 guessedWord();
 reset();
+
